@@ -1,4 +1,4 @@
-### E ai, Blz ?✌ Eu sou Bruno Caputo Programador Full Stack
+### Olá, tudo bem?✌ Eu sou Bruno Caputo Programador Full Stack
 
 <div align="center">
   <a href="https://github.com/brunorcx"/>

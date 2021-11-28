@@ -16,7 +16,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div></div>
   <br/>  
-- 🔭 Eu atualmente estou trabalhano em um site e-commerce juntamente com @Machado21.
+- 🔭 Atualmente trabalhando em um site e-commerce juntamente com <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/Machado21/Machado21">.
   
   ##
  

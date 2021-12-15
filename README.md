@@ -1,5 +1,5 @@
-### Olá, tudo bem? Eu sou Bruno Caputo Programador
-### Hello. I'm programmer Bruno Caputo. 
+### [Português] Olá, tudo bem? Eu sou Bruno Caputo Programador
+### [English] Hello. I'm programmer Bruno Caputo. 
 <div align="center">
   <a href="https://github.com/brunorcx"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunorcx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,8 +17,9 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div></div>
   <br/>  
-Atualmente trabalhando em um site e-commerce juntamente com <a href="https://github.com/Machado21/Machado21">@Machado21<a/>.
+[Português] Atualmente trabalhando em um site e-commerce juntamente com <a href="https://github.com/Machado21/Machado21">@Machado21<a/>.
   
+[English] Currently  working on a e-commerce website with <a href="https://github.com/Machado21/Machado21">@Machado21<a/>.
   ##
  
 <div> 

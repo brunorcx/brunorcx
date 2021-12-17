@@ -1,4 +1,4 @@
-### Olá, tudo bem? Eu sou Bruno Caputo Programador
+### Olá, tudo bem? Eu sou Bruno Caputo programador
 *Leia este arquivo em outras linguagens: [Inglês](README.md), [Português](README.pt.md)*
 
 

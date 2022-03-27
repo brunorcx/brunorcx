@@ -1,4 +1,4 @@
-###  Hello. I'm programmer Bruno Caputo. 
+###  Hello. I'm developer Bruno Caputo. 
 *Read this in other languages: [English](README.md), [Portuguese](README.pt.md)*
 
 <div align="center">

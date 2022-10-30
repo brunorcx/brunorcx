@@ -22,7 +22,7 @@
   <br/>  
 Atualmente trabalhando em um site e-commerce juntamente com <a href="https://github.com/Machado21/Machado21">@Machado21<a/>.
   
-Tenho esse site com uma cara bem moderna acessível em : https://template-white.vercel.app/
+Criei esse site, que tem uma cara bem moderna! Disponível no sítio: https://template-white.vercel.app/
   
   ##
  
